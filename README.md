@@ -1,16 +1,19 @@
-## Hi there 👋
+# My Special Repository
 
-<!--
-**sheriislays/sheriislays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
 
-Here are some ideas to get you started:
+Hello! I'm Shreya Poudyal, and I’m excited to share a bit about myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: Shreya Poudyal
+- **Interests**: President of ALCC, movies, music, and anime.
+- **Career Goals**: To become a psychologist (not a psycho)!
+
+Feel free to explore and learn more about me!
+
+## Skills
+
+- **Yapping**: I love engaging in conversations and sharing thoughts.
+- **Problem Solving**: I enjoy tackling challenges and finding solutions.
+- **Listening**: I'm great at listening to others and understanding their perspectives.
+- **Binging**: Whether it's shows or music, I enjoy diving into my favorite media!
+
